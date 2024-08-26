@@ -194,7 +194,7 @@ def build_transformer(source_vocab_size, target_vocab_size, source_sequence_leng
 ```
 ## Usage
   - Create a virtual environment
-  - If you have [uv](https://astral.sh/blog/uv-unified-python-packaging) installed:\
+  - If you have [uv](https://astral.sh/blog/uv-unified-python-packaging) installed:
     -  ```uv venv```
     -  Activate with: ```.venv\scripts\activate```
   - Create without uv:
@@ -207,6 +207,6 @@ def build_transformer(source_vocab_size, target_vocab_size, source_sequence_leng
 - Train the model using your dataset.
   - Example dataset: [IIT Bombay English-Hindi Translation Dataset](https://www.kaggle.com/datasets/vaibhavkumar11/hindi-english-parallel-corpus)
 
-### References
-[Umar Jamil's Implementation](https://youtu.be/ISNdQcPhsts?si=hqGDqjfqUiCdF5xx)
-[Attention Is All you Need paper](https://arxiv.org/abs/1706.03762)
+## References
+- [Umar Jamil's Implementation](https://youtu.be/ISNdQcPhsts?si=hqGDqjfqUiCdF5xx)
+- [Attention Is All you Need paper](https://arxiv.org/abs/1706.03762)
